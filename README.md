@@ -1,10 +1,10 @@
-# Srishti's Portfolio: HTML, CSS  and Javascipt Edition
+#Bharti Portfolio: HTML, CSS  and Javascipt Edition
 
 ## Description
 I've built my portfolio using HTML, CSS, and JavaScript, showcasing my projects and providing contact details for collaboration opportunities. 
 From crafting intuitive user interfaces to implementing robust backend solutions, I bring versatility and expertise to every project. Explore my portfolio and let's connect to bring your ideas to life!
 ## Project preview
-https://srishti-portfolio-pearl.vercel.app/
+https://github.com/99bharti/porfolio
 
 ## Screenshots
 ![portfolio](https://github.com/srishtibhriegu/Portfolio/assets/126707268/7174ff69-2dc0-404f-a80c-cc06f7250250)
